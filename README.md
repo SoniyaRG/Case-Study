@@ -20,3 +20,6 @@ The data is available in 8 different csv files:
 6. orders.csv
 7. products.csv
 8. sellers.csv
+
+PDF OF THE CASE STUDY IS ALSO ATTACHED
+  
